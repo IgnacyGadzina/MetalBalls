@@ -1,2 +1,2 @@
 # MetalBalls
-It's a prototype.
+video: https://www.youtube.com/watch?v=oIC08oBZ9aw
